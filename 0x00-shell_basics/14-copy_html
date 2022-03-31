@@ -1,4 +1,2 @@
-able File  2 lines (2 sloc)  30 Bytes
-   
 #!/bin/bash
 cp -rua *html ../
