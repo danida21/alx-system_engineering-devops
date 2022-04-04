@@ -1,0 +1,14 @@
+total 22
+drwxr-xr-x 1 asmay 197609  0 Apr  4 22:18 .
+drwxr-xr-x 1 asmay 197609  0 Apr  4 21:27 ..
+-rwxr-xr-x 1 asmay 197609 32 Apr  4 20:46 0-hello_world
+-rwxr-xr-x 1 asmay 197609 28 Apr  4 21:04 1-confused_smiley
+-rwxr-xr-x 1 asmay 197609 28 Apr  4 21:20 2-hellofile
+-rwxr-xr-x 1 asmay 197609 39 Apr  4 21:37 3-twofiles
+-rwxr-xr-x 1 asmay 197609 35 Apr  4 21:41 4-lastlines
+-rwxr-xr-x 1 asmay 197609 35 Apr  4 21:59 5-firstlines
+-rwxr-xr-x 1 asmay 197609 36 Apr  4 22:07 6-third_line
+-rwxr-xr-x 1 asmay 197609 78 Apr  4 22:10 7-file
+-rwxr-xr-x 1 asmay 197609 36 Apr  4 22:17 8-cwd_state
+-rw-r--r-- 1 asmay 197609 27 Apr  4 20:44 README.md
+-rw-r--r-- 1 asmay 197609  0 Apr  4 22:18 ls_cwd_content
